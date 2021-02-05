@@ -1,0 +1,33 @@
+type: GenericCrafter
+
+hasItems: true
+hasLiquids: true
+hasPower: true
+itemCapacity: 10
+liquidCapacity: 10
+craftTime: 30
+
+craftEffect: smeltsmoke
+
+health: 160
+size: 2
+
+consumes: {
+    power: 0.7
+    items:{
+        items:[
+        coal/1
+        ]
+    }
+}
+
+outputLiquid: oil/3.0
+
+requirements: [
+    titanium/30
+    graphite/20
+    lead/40
+]
+
+category: crafting
+research: coal-centrifuge

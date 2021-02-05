@@ -1,0 +1,33 @@
+type: GenericCrafter
+
+hasItems: true
+hasLiquids: true
+hasPower: true
+itemCapacity: 10
+liquidCapacity: 10
+craftTime: 10
+
+idleSound: respawning
+idleSoundVolume: 0.2
+
+health: 200
+size: 1
+
+consumes: {
+    power: 1
+    liquid: {
+        liquid: slag
+        amount: 0.2
+    }
+}
+
+outputItem: scrap/1
+
+requirements: [
+    lead/45
+    copper/35
+    graphite/30
+]
+
+category: crafting
+research: melter

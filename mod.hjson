@@ -1,0 +1,9 @@
+displayName: "Inverse"
+author: "Nuclear_Bomb"
+description: "This mod adds a couple of inverse buildings, so that in most situations, some resources are available or so that there are more of them.\n[lightgray]Added buildings: Inverse Pulverizer, Inverse Melter, Inverse Coal Centrifuge, Inverse Spore Press.[]"
+version: "1.0"
+
+name: "inverse"
+minGameVersion: "123.1"
+dependencies: [ ]
+hidden: false

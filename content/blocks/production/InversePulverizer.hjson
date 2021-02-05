@@ -1,0 +1,33 @@
+hasItems: true
+hasLiquids: false
+hasPower: true
+itemCapacity: 10
+craftTime: 40
+
+craftEffect: pulverize
+updateEffect: pulverizeSmall
+updateEffectChance: 0.02
+ambientSound: grinding
+ambientSoundVolume: 0.025f
+
+health: 40
+size: 1
+
+consumes: {
+    power: 0.5
+    items:{
+        items:[
+        sand/1
+        ]
+    }
+}
+
+outputItem: scrap/1
+
+requirements: [
+    lead/25
+    copper/30
+]
+
+category: crafting
+research: pulverizer
