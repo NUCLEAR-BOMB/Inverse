@@ -1,6 +1,6 @@
 # Inverse
 
-This mod adds a couple of inverse buildings
+Mindustry mod. This mod adds a couple of inverse buildings.
 
 ## ![Inverse Pulverizer](https://raw.githubusercontent.com/NUCLEAR-BOMB/Inverse/main/icon.png) Inverse Pulverizer
 It turns the sand into scrap metal, wasting energy.
